@@ -1,11 +1,11 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-### My name is Oleh Karmazyn <br>
-Driven <b>Android Developer</b> with a passion for crafting innovative mobile solutions. Over 2 years of freelance experience in the Android domain. Open to new challenges and eager to bring creative ideas to life.
-* 🌍  I'm based in Katowice, Poland
-* ✉️  You can contact me at [ol0321k@gmail.com](mailto:ol0321k@gmail.com)
-* 🧠  I'm learning Kotlin Multiplatform
-* 🤝  I'm open to collaborating on innovative projects
-* ⚡  Have an Associate's Degree in Software Development
+## Oleh Karmazyn is Product-Focused Software Engineer <br>
+Driven <b>Android Developer</b> with a passion for crafting innovative solutions. 
+
+* 🌍  Based in Poland
+* ✉️  You can contact me at [oleh.karmazyn.pl@gmail.com](mailto:oleh.karmazyn.pl@gmail.com)
+* 🤝  Оpen to collaborating on innovative projects
+
 
 ### Skills  
 
