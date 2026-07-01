@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-## Oleh Karmazyn is Product-Focused Software Engineer <br>
-Driven <b>Man</b> with a passion for crafting innovative solutions. 
+## Oleh Karmazyn is a Product-Focused Software Engineer <br>
+Driven <b>software engineer</b> with a passion for crafting innovative solutions.
 
 * 🌍  Based in Poland
 * ✉️  You can contact me at [oleh.karmazyn.pl@gmail.com](mailto:oleh.karmazyn.pl@gmail.com)
