@@ -5,7 +5,8 @@ Driven <b>software engineer</b> with a passion for crafting innovative solutions
 * 🌍  Based in Poland
 * ✉️  You can contact me at [oleh.karmazyn.pl@gmail.com](mailto:oleh.karmazyn.pl@gmail.com)
 * 🤝  Оpen to collaborating on innovative projects
-<a href="https://map.corlecti.com/p/mdD3--EWfg8k"><picture><source media="(prefers-color-scheme: dark)" srcset="https://map.corlecti.com/p/mdD3--EWfg8k/card.svg?theme=dark"><img src="https://map.corlecti.com/p/mdD3--EWfg8k/card.svg?theme=light" alt="test mcp"></picture></a>
+
+<a href="https://map.corlecti.com/p/cf0tjeBfHhRX"><picture><source media="(prefers-color-scheme: dark)" srcset="https://map.corlecti.com/p/cf0tjeBfHhRX/card.svg?theme=dark"><img src="https://map.corlecti.com/p/cf0tjeBfHhRX/card.svg?theme=light" alt="Corlecti — Products and Directions"></picture></a>
 
 ### Skills  
 
